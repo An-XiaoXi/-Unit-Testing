@@ -4,9 +4,8 @@
 >
 > 加油！😃
 
-<img style="margin-left: 100px;width: 150px;" src="https://i03piccdn.sogoucdn.com/aac9c5a137dabe23" ></img>
 
-
+![](https://i03piccdn.sogoucdn.com/aac9c5a137dabe23)
 
 > CTRL + SHIFT + T ，快速生成测试类
 

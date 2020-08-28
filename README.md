@@ -1,17 +1,20 @@
-
-
 > 有信心未必会赢，没信心一定会输！ 成功不是必然的，但努力是必需的。
 >
 > 加油！😃
 
+<img style="margin-left: 100px;width: 150px;" src="https://i03piccdn.sogoucdn.com/aac9c5a137dabe23" ></img>
 
-![](https://i03piccdn.sogoucdn.com/aac9c5a137dabe23)
+
+
+## 废话不多说 干就完了
+
+
 
 > CTRL + SHIFT + T ，快速生成测试类
 
 
 
-SpringBoot 嵌套 SpringBootTest 单元测试
+SpringBoot 嵌套 SpringBootTest 单元测试，大多数开发人员使用 spring-boot-starter-test，它同时导入 SpringBoot 测试模块以及JUnit Jupiter、AssertJ、Hamcrest 和许多其他有用的库，能够帮助我们测试自己的代码是否可用。
 
 
 
@@ -240,3 +243,10 @@ class DemoApplicationTests {
 ```
 [Admin{adminid=9527, adminname='超级管理员', sex='男', tel='13658377857', email='1253838283@qq.com', pwd='123456', cardid='3132', role='0'}]
 ```
+
+
+
+## 源代码：
+
+`GitHub` 地址：https://github.com/An-XiaoXi/-Unit-Testing
+
